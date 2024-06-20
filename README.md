@@ -5,6 +5,7 @@
 This repository contains
 
 - [Course notes](#course-contents)
+- [Lab assignments](#assignments)
 
 ## Course Info
 
@@ -20,3 +21,10 @@ This repository contains
 |-|----------|-----------------------|
 |0|[Introduction](./notes/Lesson_0.md)||
 |1|[Handling Big Models](./notes/Lesson_1.md)|<ul><li>Memory requirement of large models vis-a-vis GPU hardware</li><li>Model compression techniques apart from quantization</li><li>Idea behind quantization</li></ul>|
+|2|[Data Types and Sizes](./notes/Lesson_2.md)|<ul><li>Integer and Floating point data types</li><li>Floating Point Downcasting</li></ul>|
+
+## Assignments
+
+|Lesson #|Assignment|Description|
+|-|----------|-----------|
+|2|[Data Types and Sizes](./notes/Lesson_2.md#notebook)|<ul><li>Common data types</li><li>Floating Point Downcasting</li></ul>|
