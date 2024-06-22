@@ -22,9 +22,11 @@ This repository contains
 |0|[Introduction](./notes/Lesson_0.md)||
 |1|[Handling Big Models](./notes/Lesson_1.md)|<ul><li>Memory requirement of large models vis-a-vis GPU hardware</li><li>Model compression techniques apart from quantization</li><li>Idea behind quantization</li></ul>|
 |2|[Data Types and Sizes](./notes/Lesson_2.md)|<ul><li>Integer and Floating point data types</li><li>Floating Point Downcasting</li></ul>|
+|3|[Loading ML Models with Different Data Types](./notes/Lesson_3.md)|<ul><li>Model downcasting in PyTorch</li><li>Studying impact of loading Generative AI model in half-precision</li></ul>|
 
 ## Assignments
 
 |Lesson #|Assignment|Description|
 |-|----------|-----------|
 |2|[Data Types and Sizes](./notes/Lesson_2.md#notebook)|<ul><li>Common data types</li><li>Floating Point Downcasting</li></ul>|
+|3|[Loading ML Models with Different Data Types](./notes/Lesson_3.md#notebook)|<ul><li>Model downcasting from `float32` to `bfloat16`</li><li>Image caption generation using BLIP model and comparing generated text using downcasted model</li></ul>|
