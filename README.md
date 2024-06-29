@@ -38,3 +38,7 @@ This repository contains
 
 - [Course completion certificate](https://learn.deeplearning.ai/accomplishments/48bbc617-1250-41da-a570-ea8735733aff)
 - Issued on June 2024
+
+## Related Courses
+
+Please visit my [Github page](https://kaushikacharya.github.io/courses/) for other courses.
